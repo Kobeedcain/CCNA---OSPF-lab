@@ -14,6 +14,14 @@ The lab includes multiple routers connected in an OSPF Area 0 topology. Each rou
 - Configure R1 as an ASBR to advertise a default route
 - Verify OSPF neighbor relationships
 
+
+  ## What I learned 
+- Configured multi-router OSPF Area 0 topology
+- Implemented loopback interfaces for router IDs
+- Configured passive interfaces to reduce unnecessary OSPF updates
+- Advertised a default route using an ASBR
+- Verified adjacency and routing tables using Cisco IOS commands
+
 ## Files Included
 - Packet Tracer topology file (.pkt)
 - Router configurations
@@ -37,10 +45,3 @@ show ip ospf database
 - Cisco Packet Tracer
 - Cisco IOS CLI
 
-
-## What I learned 
-- Configured multi-router OSPF Area 0 topology
-- Implemented loopback interfaces for router IDs
-- Configured passive interfaces to reduce unnecessary OSPF updates
-- Advertised a default route using an ASBR
-- Verified adjacency and routing tables using Cisco IOS commands
