@@ -1,3 +1,5 @@
+## Router Configurations
+### R1 
 ```
 hostname R1
 
@@ -34,6 +36,5 @@ router ospf 1
  default-information originate
 
 ip classless
-```
 ip route 0.0.0.0 0.0.0.0 203.0.113.2
-` ` ` 
+```
