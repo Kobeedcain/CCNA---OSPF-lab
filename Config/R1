@@ -1,4 +1,4 @@
-```bash
+` ` ` bash
 hostname R1
 
 interface Loopback0
@@ -35,4 +35,4 @@ router ospf 1
 
 ip classless
 ip route 0.0.0.0 0.0.0.0 203.0.113.2
-```
+` ` ` 
