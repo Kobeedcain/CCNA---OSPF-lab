@@ -32,6 +32,11 @@ Network
 passive-interface
 Router ospf 
 show running-config
+## Toplagy  
+<img width="765" height="347" alt="image" src="https://github.com/user-attachments/assets/f6c017c8-cb97-46aa-ad14-c8adb7963e9a" />
+
+
+
 show ip ospf database
 ## Tools Used
 - Cisco Packet Tracer
