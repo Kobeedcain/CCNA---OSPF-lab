@@ -33,12 +33,14 @@ show ip ospf database
 ## Toplagy  
 <img width="765" height="347" alt="image" src="https://github.com/user-attachments/assets/f6c017c8-cb97-46aa-ad14-c8adb7963e9a" />
 
+```
 ## What I learned
 - Configured multi-router OSPF Area 0 topology
 - Implemented loopback interfaces for router IDs
 - Configured passive interfaces to reduce unnecessary OSPF updates
 - Advertised a default route using an ASBR
 - Verified adjacency and routing tables using Cisco IOS commands
+```
 
 
 ## Tools Used
