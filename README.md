@@ -22,18 +22,14 @@ The lab includes multiple routers connected in an OSPF Area 0 topology. Each rou
 ## Verification Commands
 The following commands were used to verify the configuration:
 
-Hostname 
-IP address 
+```
 Do show ip interface brief 
 show ip ospf neighbor  
 show ip route  
 show ip ospf interface
-Network
-passive-interface
-Router ospf 
 show running-config
 show ip ospf database
-
+```
 ## Toplagy  
 <img width="765" height="347" alt="image" src="https://github.com/user-attachments/assets/f6c017c8-cb97-46aa-ad14-c8adb7963e9a" />
 
